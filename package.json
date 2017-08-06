@@ -1,7 +1,7 @@
 {
   "name": "projetoworkflow",
   "version": "1.0.0",
-  "description": "Projeto de teste e aprendizado simulando uma ura de projeto real",
+  "description": "Projeto de teste e aprendizado simulando uma estrutura de projeto real",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
